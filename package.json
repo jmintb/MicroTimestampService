@@ -1,0 +1,26 @@
+{
+  "name": "microtimestampservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmintb/MicroTimestampService.git"
+  },
+  "author": "Jessie Chatham Spencer (jmintb)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmintb/MicroTimestampService/issues"
+  },
+  "homepage": "https://github.com/jmintb/MicroTimestampService#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  } ,
+  "engines": {
+    "node": "^8.1.2"
+  }
+}
